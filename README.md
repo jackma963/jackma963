@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @jackma963
-- 👀 I’m interested in Webdevelopement.
-- 🌱 I’m currently learning Node.js.
-- 💞️ I’m looking to collaborate on webdevelopement.
+## Hey I am Andrew
 
-
-<!---
-jackma963/jackma963 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Why my code works?
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/330af13b-6435-4505-8a02-1869b677f9eb" width="300">
+<br><br>
